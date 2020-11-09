@@ -3,4 +3,4 @@ Here we contribute Deep Learning exercises and solutions that closely follow the
 
 * Exercise questions are created by Arash Ash.
 
-* Solutions are created by Busra Tugce Gurbuz.
+* Solutions and study notes are created by Busra Tugce Gurbuz.
